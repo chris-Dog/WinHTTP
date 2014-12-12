@@ -16,6 +16,7 @@ build.bat
 * http://msdn.microsoft.com/en-us/library/windows/desktop/aa384080.aspx
 * http://msdn.microsoft.com/en-us/library/windows/desktop/aa384257.aspx
 * http://blogs.telerik.com/fiddler/posts/13-04-29/using-fiddler-with-winhttp
+* http://blogs.msdn.com/b/jpsanders/archive/2009/05/28/how-to-enable-winhttp-tracing-on-vista-2008-and-windows-7.aspx
 
 
 
